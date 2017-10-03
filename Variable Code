@@ -1,0 +1,11 @@
+# 'x' is a variable storing 4.5
+# 'y' is a variable storing 4
+
+x = 4.5
+y = 4
+
+# 'result' is a variable storing what 'x' - 'y' is (4.5 - 4 = 0.5) result stores 0.5 in it.
+result = x - y
+
+# We are making the console print out what is stored in the variable result.
+print(result)
